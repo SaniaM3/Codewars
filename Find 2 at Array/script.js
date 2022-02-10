@@ -15,6 +15,6 @@
 // Find The Unique
 
 function findUniq(arr) {
-    arr.sort((a,b)=>a-b);
-    return arr[0]==arr[1]?arr.pop():arr[0]
+    arr.sort((a,b)=>a-b); //Сортировка массива по возрастанию
+    return arr[0]==arr[1]?arr.pop():arr[0] //Если первое значение массива равно второму, arr.pop извлекает последнее значение массива и присваивает первому значению
   }
