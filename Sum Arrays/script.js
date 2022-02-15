@@ -10,7 +10,7 @@
 
 function sum (numbers) {
     let total = 0;
-  numbers.forEach(value => {
+  numbers.forEach(value => { //Метод forEach выполняет функцию для каждого элемента в массиве
     total += value;
   });
     
