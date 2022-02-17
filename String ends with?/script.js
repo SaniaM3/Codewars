@@ -2,7 +2,7 @@
 // если первый переданный аргумент (строка) заканчивается
 //  вторым аргументом (тоже строкой).
 
-//  solution('abc', 'bc') // returns true
+// solution('abc', 'bc') // returns true
 // solution('abc', 'd') // returns false
 
 function solution(str, ending){ 
