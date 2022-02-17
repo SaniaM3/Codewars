@@ -19,6 +19,6 @@ function sumTwoSmallestNumbers(numbers) {
   //версия короче
 
   function sumTwoSmallestNumbers(numbers) {  
-    numbers.sort((a,b) => a - b);
+    numbers.sort((a,b) => a - b); //сортируем массив в порядке возрастания, почему мне не лезет это в голову, задолбало, запомни уже!!!
     return numbers[0] + numbers[1];
   };
