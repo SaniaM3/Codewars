@@ -16,3 +16,4 @@ checkSign(10);
 checkSign(101);
 checkSign(1011);
 checkSign(109);
+checkSign(1011223);
