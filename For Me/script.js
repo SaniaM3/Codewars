@@ -22,3 +22,4 @@ checkSign(10099);
 checkSign(1012321);
 checkSign(103103);
 checkSign(1012123);
+checkSign(103131221);
