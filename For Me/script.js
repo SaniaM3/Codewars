@@ -5,22 +5,3 @@ function checkSign(num) {
   }
   
   checkSign(10);
-
-  //тернарное выражение 3 условий
-
-function checkSign(num) {
-  return (num == 0) ? "zero" : (num < 0) ? "negative" : "positive";
-}
-
-checkSign(10);
-checkSign(101);
-checkSign(1011);
-checkSign(109);
-checkSign(1011223);
-checkSign(11110);
-checkSign(10099);
-checkSign(1012321);
-checkSign(103103);
-checkSign(1012123);
-checkSign(103131221);
-checkSign(1011111222);
