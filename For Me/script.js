@@ -15,3 +15,4 @@ function checkSign(num) {
 checkSign(10);
 checkSign(101);
 checkSign(1011);
+checkSign(109);
