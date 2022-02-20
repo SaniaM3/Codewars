@@ -10,13 +10,3 @@ function simpleMultiplication(value){
     return value* 9;
     }    
 }
-
-
-123
-123
-123
-123
-123
-123
-123
-123
