@@ -9,4 +9,4 @@ function simpleMultiplication(value){
     else{
     return value* 9;
     }    
-}.........
+}
