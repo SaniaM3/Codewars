@@ -10,3 +10,6 @@ function simpleMultiplication(value){
     return value* 9;
     }    
 }
+
+
+123
