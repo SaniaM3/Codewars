@@ -13,3 +13,4 @@ function simpleMultiplication(value){
 
 
 123
+123
