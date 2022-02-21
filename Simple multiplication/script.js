@@ -14,12 +14,3 @@ function simpleMultiplication(value){
 }
 
 false
-false
-false
-false
-false
-this
-this
-completion
-caches
-caches
