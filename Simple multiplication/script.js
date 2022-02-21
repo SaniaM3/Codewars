@@ -12,3 +12,4 @@ function simpleMultiplication(value){
 }
 
 false
+false
