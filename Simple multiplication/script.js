@@ -13,4 +13,4 @@ function simpleMultiplication(value){
     }    
 }
 
-false
+fals
