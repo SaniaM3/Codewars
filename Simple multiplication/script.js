@@ -1,6 +1,8 @@
 // Это ката об умножении заданного числа на восемь, 
 // если оно четное, и на девять в противном случае.
 
+const completion = require("gulp-cli/lib/shared/completion");
+
 function simpleMultiplication(value){
     
     if(value%2===0 ){
@@ -18,3 +20,4 @@ false
 false
 this
 this
+completion
