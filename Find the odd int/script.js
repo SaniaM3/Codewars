@@ -34,3 +34,4 @@ function findOdd(A) {
   alert
   alert
   alert
+  alert
