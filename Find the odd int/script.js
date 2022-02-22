@@ -22,16 +22,3 @@ function findOdd(A) {
   // проще решение
 
   const findOdd = (xs) => xs.reduce((a, b) => a ^ b);
-
-  alert
-  alert
-  alert
-  alert
-  alert
-  alert
-  alert
-  alert
-  alert
-  alert
-  alert
-  alert
