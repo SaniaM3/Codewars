@@ -16,3 +16,4 @@ function checkSign(num) {
   screen
   screen
   screen
+  screen
