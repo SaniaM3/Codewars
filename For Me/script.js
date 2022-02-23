@@ -5,17 +5,3 @@ function checkSign(num) {
   }
   
   checkSign(10);
-
-
-  screen
-  screen
-  screen
-  screen
-  screen
-  screen
-  screen
-  screen
-  screen
-  screen
-  screen
-  screen
