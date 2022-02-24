@@ -11,3 +11,4 @@ function checkSign(num) {
   checkSign(10);
   checkSign(10);
   checkSign(10);
+  checkSign(10);
